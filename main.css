@@ -16,3 +16,11 @@ p {
 p:hover {
   font-size: 1.4rem;
 }
+
+a {
+  color: dodgerblue;
+  transition: 0.2s;
+}
+a:hover {
+  color: deepskyblue;
+}
